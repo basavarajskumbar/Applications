@@ -1,0 +1,29 @@
+Create Resolution Meta Data
+
+Center, Trust, Ministry, Department - Create Lookup Tables
+Create 4 fileds in the resolution meta data for Center, Trust, Ministry, Department
+Make the entry field into a drop down - only one value can be selected
+Visibility: Add Confidential (the resolution will get encrypted and cannot be published)
+Group drop down should be displayed, but enabled only when Visibility = Restricted
+Encrypt check box to be removed
+Allow Comments, Allow Audit (Will go into audit list of GBR - later enhancement)
+Upload File option should be on the top.
+
+Search Screen
+
+SERP Display to be similar to Google (font size and line spacing)
+Display Category | Sub Category | Center | Trust | Mininstry | Department
+Search text to be displayed in bold.
+Text Formatting should be removed.
+
+Display action items for users in the SERP RHS (responsive - moved to bottom in smaller screens)
+The user can update the status
+
+View page to show the center, trust, ministry, department whichever is applicable
+Should show Preamble, Resolution, Special Note, SP Vani Citations and the link to the attachment if any
+
+
+Move old category into another field.
+Category Master to have Policy, Procedure, Statutory, Theology, Management, Actionable, Secretarial
+From Old Category Center Names to move to center field, Trust Name to move to trust field, Ministry Name to move to Ministry Field
+
